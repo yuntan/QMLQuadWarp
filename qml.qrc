@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/QuadWarp.qml</file>
+        <file>qml/Handle.qml</file>
+        <file>sample1.png</file>
+        <file>shader/QuadWarp.vert</file>
+    </qresource>
+</RCC>
